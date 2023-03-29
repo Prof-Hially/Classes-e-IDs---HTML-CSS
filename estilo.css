@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+/*seletor de ID*/
+#titulo-principal{
+    color:blueviolet;
+}
+
+/*seletor de classe*/
+.formatacao-padrao{
+    color: chartreuse;
+    background-color: azure;
+}
